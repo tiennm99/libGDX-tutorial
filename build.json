@@ -1,0 +1,10 @@
+{
+  "platform": "windows64",
+  "jdk": "C:\\Program Files\\Eclipse Foundation\\jdk-11.0.12.7-hotspot",
+  "executable": "Drop",
+  "classpath": [
+    "desktop\\build\\libs\\desktop-1.0.jar"
+  ],
+  "mainclass": "com.badlogic.drop.Drop",
+  "output": "out-windows"
+}
